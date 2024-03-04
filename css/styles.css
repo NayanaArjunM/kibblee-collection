@@ -1,0 +1,68 @@
+h1
+{
+ font-family: "Black Ops One", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style:carsive;
+
+}
+.container-fluid{
+  padding: 1% 9%;
+}
+#BOSS{
+  background-color: #6D2932; #6D2932;
+}
+.navbar-brand{
+  font-size: 3rem;
+  font-weight: bold;
+}
+.nav-item{
+  font-size: 1rem;
+  font-weight: bold;
+}
+.img-fluid{
+  transform: rotate(20deg);
+  width: 300px;
+  height: 200px;
+}
+.button-inline{
+  margin-top: 5%;
+}
+#icon:hover{
+  color:#6D2932;
+}
+#testimonials
+{
+  text-align: center;
+  background-color: #6D2932;
+    padding: 1% 9%;
+    color: #fff;
+    padding-bottom: 5%;
+}
+#press{
+    background-color: #6D2932;
+    text-align: center;
+  padding-bottom: 5%;
+}
+#press{
+padding-left: 1%;
+}
+.nan:hover{
+  color:black;
+
+}
+.container2-fluid{
+  padding: 1% 9%;
+}
+#card{
+  margin-right: 5;
+  padding-right: 2px;
+}
+.card{
+  background-color: #6D2932;
+  padding: 2px;
+  margin: 80px;
+}
+.button-inline1{
+    background-color: #6D2932;
+}
